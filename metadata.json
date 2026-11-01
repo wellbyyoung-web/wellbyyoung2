@@ -1,0 +1,6 @@
+{
+  "name": "웰바이영 | WELL BY YOUNG",
+  "description": "일상의 활력을 설계하다. 몸의 균형을 이해하고 나에게 맞는 건강한 일상을 디자인하는 퍼스널 헬스 디자인 브랜드 웰바이영(WELL BY YOUNG).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
